@@ -11,7 +11,7 @@
 <div align="center">
   <sup>Figura 1 - Visão vertical do circuito</sup>
 
-  <img src="semaforo/IMG_20241029_132134.png" alt="Visão vertical do circuito">
+  <img src="semaforo/IMG_20241029_132134.jpg" alt="Visão vertical do circuito">
 
   <sub>Fonte: Material produzido pelo autor (2024).</sub>
 </div>
@@ -20,7 +20,7 @@
 <div align="center">
   <sup>Figura 2 - Visão oblíqua do circuito</sup>
 
-  <img src="/semaforo/IMG_20241029_132148.png" alt="Visão obliqua do circuito">
+  <img src="/semaforo/IMG_20241029_132148.jpg" alt="Visão obliqua do circuito">
 
   <sub>Fonte: Material produzido pelo autor (2024).</sub>
 </div>
