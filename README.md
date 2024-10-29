@@ -31,6 +31,9 @@
 
 &ensp; Para montar esse circuito utilizou-se os seguintes componentes:
 
+<div align="center">
+    <sup>Tabela 1 - Tabela de Componentes</sup>
+
 | Nome do Componente | Quantidade |
 |---------------------|--------------------|
 | Jumper Macho-Fêmea | 7 |
@@ -41,6 +44,9 @@
 | Led | 3 |
 | Protoboard | 1 |
 | Placa Arduino Uno | 1 |
+
+  <sub>Fonte: Material produzido pelo autor (2024).</sub>
+</div>
 
 &ensp; Com esses materiais, pode-se:
 1. Conectar o GND do arduino na protoboard;
