@@ -8,5 +8,5 @@
 | Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        |            (3) Completa: As luzes correspondem corretamente ao tempo definido no barema.              |
 | Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        |         (3) Completa      |
 | Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        |             (1) Completa: Adição do LCD e utilização de ponteiros.              |
-|  |                                                             |  | |**Pontuação Total**|
+|  |                                                             |  | |**Pontuação Total (10)**|
 
